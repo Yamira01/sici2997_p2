@@ -8,7 +8,7 @@ $(document).ready(function() {
         var username = $('[name=username]');
         var email = $('[name=email]');
         
-        if (username.val().trim() == "") {
+        if (username.val().trim() == " ") {
             errors += '<div class="alert alert-danger" role="alert">El usuario es requerido.</div>';
         }
         

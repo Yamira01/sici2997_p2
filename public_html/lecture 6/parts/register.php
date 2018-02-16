@@ -8,8 +8,9 @@ $uname = $_POST['username'] ?? '';
       &nbsp;
     </div>
     <div class="col-sm-6">
-      <div name='registerError'>
-      </div>
+        <div name="registerErrors">
+            
+        </div>
         <form method="post" action="index.php?a=doRegister">
           <div class="form-group">
             <label for="username">Username</label>

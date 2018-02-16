@@ -45,9 +45,12 @@ if ($action == 'login') {
         showError('The entered password is incorrect!');
         include './parts/login.php';
     }
+    
 } else if ($action == 'register') {
     include './parts/register.php';
-} else if ($action == 'doRegister') {
+}
+
+else if ($action == 'doRegister') {
     $u = User::loadFromUsername($_POST['username']);
     
     if ($u) {

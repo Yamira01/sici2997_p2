@@ -98,3 +98,42 @@ git add.
 git commit -m"add existing file"a
 cd
 cd~
+git pull origin mastere
+git pull origin master
+git init
+git put origin mastyer
+git remote add origin https://github.com/Yamira01/sici2997_p2.git
+git pull origin master
+git pull origin branchname
+git remote add origin https://github.com/Yamira01/sici2997_p2.git
+git branch -a
+git remote update origin --prune
+git remote add origin https://github.com/Yamira01/sici2997_p2.git
+git init
+git push origin master
+git pullgit pull
+git pull
+git remote update origin
+ git fetch
+git ini
+git init
+git remote update origin
+git push origin master
+git pull origin master
+git add*
+git add
+git add .
+git status
+git push
+ git push --set-upstream origin master
+git push
+git remote -v
+git push origin master
+push
+git commit -m "Cambios"
+git push origin master
+git push
+git commit -m "Cambios"
+git add
+git add.
+add

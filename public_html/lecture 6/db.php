@@ -15,5 +15,6 @@ $db = new PDO("mysql:host=$dbHostname;dbname=$dbDatabase;charset=utf8", $dbUsern
    return $stmt->fetchAll();
     
     }
+    
 
 ?>

@@ -1,5 +1,5 @@
 
-<!-- Header with full-height image -->
+<!-- EL HEADER CON LA IMAGEN -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div  class="w3-display-left w3-text-white" style="padding:48px">
     <span  class="w3-jumbo w3-hide-small">ADAPTANDO EL MOVIMIENTO</span><br>
@@ -16,24 +16,23 @@
     <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
 </header>
-
+<!--LOGO-->
 <div class="w3-center" style="padding-top:10%" >
    <img src="html/logo.jpg" alt="logo" class="center-block" width="400" height="400">
 </div>
 
 
-
-<!-- About Section -->
+<!--SECCION DE INFORMACION -->
 <div class="w3-container" style="padding-top:8%" id="about">
   <h3 class="w3-center">ADAPTANDO EL MOVIMIENTO</h3>
  <p class="w3-center w3-large">Terapia física, pilates y educación</p>
   
-   <!-- First Photo Grid-->
+   <!-- FOTOS CON DESCRIPCION-->
   <div class="w3-row-padding" style="padding-top:5%">
     <div class="w3-third w3-container w3-margin-bottom">
       <img src="html/terapiaf.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>TERAPIA FISICA</b></p>
+        <p><b>TERAPIA FÍSICA</b></p>
         <p>La<b> Terapia Física</b> se define como el tratamiento de pacientes con invalides secundaria a lesiones o pérdida de una parte del cuerpo, utilizando agentes físicos como el calor, frío, luz, electricidad, agua y movimiento, a fin de preservar la máxima movilidad y el alivio del dolor.</p>
       </div>
     </div>
@@ -47,10 +46,10 @@
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="/w3images/nature.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="html/pilates3.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
-        <p><b>EDUCACION</b></p>
-        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+        <p><b>EDUCACIÓN</b></p>
+        <p>Sabemos que la actividad física  mejora el estado de ánimo, puede actuar como antidepresivo y reduce el estrés. .</p>
       </div>
     </div>
   </div>
@@ -58,27 +57,28 @@
 
 </div>
 
-<!-- Promo Section - "We know design" -->
+<!-- BOTON DE REGISTRATE -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
       <h3>Clases de Pilates en línea para todos</h3>
       <p>¡Registrate y Disfruta de la fusión de Pilates con la barra y el trabajo en el suelo, el entrenamiento físico tradicional y mucho más!</p>
-      <p><a href="suscribe.html" class="w3-button w3-black"><i class="fa fa-th"> </i>CLASES</a></p>
+      <p><a href="index.php?a=register" class="w3-button w3-black"><i class="fa fa-th"> </i>Únete hoy</a></p>
           
     </div>
     <div class="w3-col m6">
-        <img class="w3-image w3-round-large" src="pilates2.jpg" alt="Buildings" width="450" height="200">
+        <img class="w3-image w3-round-large" src="html/pilates2.jpg" alt="Buildings" width="450" height="200">
 
     </div>
   </div>
 </div>
 
-<!-- Team Section -->
+<!--VIDEOS DEMOS  -->
 <div class="w3-container" style="padding:128px 16px" id="team">
-  <h3 class="w3-center">VIDEOS</h3>
+  <h3 class="w3-center">ALGUNAS DE NUESTRAS CLASES</h3>
   <p class="w3-center w3-large">
-Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
+Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller". 
+</p>
   <div class="w3-row-padding w3-grayscale" style="margin-top:64px">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
@@ -128,20 +128,12 @@ Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
   
 </div>
 
-<!-- Modal for full size images on click-->
-<div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
-  <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
-  <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
-    <img id="img01" class="w3-image">
-    <p id="caption" class="w3-opacity w3-large"></p>
-  </div>
-</div>
 
 
-<!-- Pricing Section -->
+<!-- SECCION DE PAQUETES -->
 <div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
   <h3>PRECIOS</h3>
-  <p class="w3-large">¡Elige tu precio, elige tu plan!</p>
+  <p class="w3-large">Regístrese hoy para una prueba gratuita de 2 semanas y disfrute de todos los beneficios.</p>
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
@@ -152,7 +144,7 @@ Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
         <li class="w3-padding-16"><b>Programa de entrenamiento semanal gratuito</b></li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">$ 0</h2>
-          <span class="w3-opacity">Free</span>
+          <span class="w3-opacity">Gratis</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
           <p><a href="index.php?a=register" class="w3-button w3-black"> </i>REGISTRATE</a></p>
@@ -169,7 +161,7 @@ Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
         <li class="w3-padding-16"><b>Servicio al cliente receptivo y personal.</b></li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">$ 19</h2>
-          <span class="w3-opacity">per month</span>
+          <span class="w3-opacity">al mes</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
          <p><a href="index.php?a=register" class="w3-button w3-black"> </i>REGISTRATE</a></p>
@@ -186,7 +178,7 @@ Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
         <li class="w3-padding-16"><b>Servicio al cliente receptivo y personal.</b></li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">$ 149</h2>
-          <span class="w3-opacity">per year</span>
+          <span class="w3-opacity">al año</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
          <p><a href="index.php?a=register" class="w3-button w3-black"> </i>REGISTRATE</a></p>
@@ -197,7 +189,7 @@ Nuestras clases incluyen Matres, sillas, toalla y "Foam Roller" .</p>
 </div>
 
 
- <!-- Contact Section -->
+ <!-- SECCION DE CONTACTO -->
   <div class="w3-container w3-padding-32" id="contact">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">CONTACTAR</h3>
     <p>Nos encantaría saber de usted!</p>

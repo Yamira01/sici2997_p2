@@ -67,3 +67,34 @@ git commit .
 git commit . -m "Test"
 git push
 git log
+cd~
+git commit . -m "this is a commit"
+git remote -v
+git add first
+git remote add origin [yamira.quinones@SICI4997 ~]$ git remote add origin
+git push origin master
+git pull
+git push origin master
+git clone -mirror
+git clone --mirror
+cd
+~cd
+cd~
+cd~yamira.quinones
+cd ~yamira.quinones/pilates/
+git init
+git add .
+git commit -m "first commit"
+git remote add origin 
+git push origin master
+git add first
+$ git init
+git init$ 
+git init
+git add .
+git commit -m "First commit"
+git remote add origin git@github.com:Yamira01/sici2997_p2.git
+git add.
+git commit -m"add existing file"a
+cd
+cd~

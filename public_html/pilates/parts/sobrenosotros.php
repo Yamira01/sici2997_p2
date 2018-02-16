@@ -37,8 +37,8 @@ body, html {
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="index.php?a=login" class="w3-bar-item w3-button">LOG IN</a>
-      <a href="clases.html" class="w3-bar-item w3-button"><i class="fa fa-th"></i>CLASES</a>
-	  	  <a href="instructor.html" class="w3-bar-item w3-button"><i class="fa fa-user"></i>INSTRUCTOR</a>
+      <a href="index.php?a=clases" class="w3-bar-item w3-button"><i class="fa fa-th"></i>CLASES</a>
+	  	  <a href="index.php?a=instructor" class="w3-bar-item w3-button"><i class="fa fa-user"></i>INSTRUCTOR</a>
       <a href="contactar.html" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACTAR</a>
 	   <a href="index.html" class="w3-bar-item w3-button"><!--<i class="fa fa-th"></i>-->INICIO</a>
     </div>

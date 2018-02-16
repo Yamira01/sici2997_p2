@@ -62,13 +62,13 @@ if ($action == 'login') {
         $u->password = $_POST['password1'];
         $u->email = $_POST['email'];
         $u->save();
-     include './parts/suscribe.php';
+   //  include './parts/suscribe.php';
         showSuccess('Welcome to Lecture 6 example!');
     }
 }
 
 else if ($action =='clases') {
-   include 'clases.php';
+   include '.parts/clases.php';
     
 }
 
@@ -78,6 +78,11 @@ else if ($action =='suscribe') {
 }
 else if ($action =='sobrenosotros') {
    include './parts/sobrenosotros.php';
+    
+}
+
+else if ($action =='instructor') {
+   include './parts/instructor.php';
     
 }
 else {

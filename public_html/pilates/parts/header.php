@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="shortcut icon" href="icon.ico"/>
+<link rel="shortcut icon" href="html/icon.ico"/>
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 body, html {
@@ -17,7 +17,7 @@ body, html {
 .bgimg-1 {
     background-position: center;
     background-size: cover;
-    background-image: url("header.jpg");
+    background-image: url("html/header.jpg");
     min-height: 100%;
 
 }
@@ -58,7 +58,7 @@ if (!isset($loggedUser)) {
    
       <a href="index.php?a=sobrenosotros" class="w3-bar-item w3-button"><i class="fa fa-user"></i>SOBRE NOSOTROS</a>
       <a href="index.php?a=clases" class="w3-bar-item w3-button"><i class="fa fa-th"></i>CLASES</a>
-	  <a href="instructor.html" class="w3-bar-item w3-button"><i class="fa fa-user"></i>INSTRUCTOR</a>
+	  <a href="index.php?a=instructor" class="w3-bar-item w3-button"><i class="fa fa-user"></i>INSTRUCTOR</a>
       <a href="index.php?a=suscribe" class="w3-bar-item w3-button"><i class="fa fa-usd"></i>SUSCRIPCIÓN</a>
       <a href="contactar.html" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> CONTACTAR</a>
     </div>
@@ -72,7 +72,7 @@ if (!isset($loggedUser)) {
 <!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
-  <a href="longin.php" onclick="w3_close()" class="w3-bar-item w3-button">LOG IN</a>
+  <a href="index.php?a=login" onclick="w3_close()" class="w3-bar-item w3-button">LOG IN</a>
   <a href="sobrenosotros.html" onclick="w3_close()" class="w3-bar-item w3-button">SOBRE NOSOTROS</a>
     <a href="instructor.html" onclick="w3_close()" class="w3-bar-item w3-button">INSTRUCTOR</a>
   <a href="suscribe.html" onclick="w3_close()" class="w3-bar-item w3-button">SUSCRIPCIÓN</a>

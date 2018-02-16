@@ -18,7 +18,7 @@
 </header>
 
 <div class="w3-center" style="padding-top:10%" >
-   <img src="logo.jpg" alt="logo" class="center-block" width="400" height="400">
+   <img src="html/logo.jpg" alt="logo" class="center-block" width="400" height="400">
 </div>
 
 
@@ -31,14 +31,14 @@
    <!-- First Photo Grid-->
   <div class="w3-row-padding" style="padding-top:5%">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="terapiaf.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="html/terapiaf.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>TERAPIA FISICA</b></p>
         <p>La<b> Terapia Física</b> se define como el tratamiento de pacientes con invalides secundaria a lesiones o pérdida de una parte del cuerpo, utilizando agentes físicos como el calor, frío, luz, electricidad, agua y movimiento, a fin de preservar la máxima movilidad y el alivio del dolor.</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="pilates.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="html/pilates.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>PILATES</b></p>
         <p><b>Pilates</b> es un método de ejercicio y movimiento físico diseñado para estirar, fortalecer y equilibrar el cuerpo. Con la práctica sistemática de ejercicios específicos junto con los patrones de respiración, Pilates ha demostrado tener un valor incalculable no sólo para las personas que quieren mantener su condición física, sino también como un importante complemento a la práctica deportiva y rehabilitación física de todo tipo.

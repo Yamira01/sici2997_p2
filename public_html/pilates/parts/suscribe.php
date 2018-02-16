@@ -149,7 +149,7 @@ body, html {
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
         <li class="w3-black w3-xlarge w3-padding-32">ANUAL</li>
-        <li class="w3-padding-16"><b>$ 149 USD / mes</b></li>
+        <li class="w3-padding-16"><b>$ 149 USD / anual</b></li>
 		<li class="w3-padding-16"><b>Ahorre $ 79 en comparación con el plan mensual cuando elige una membresía anual.</b></li>
         <li class="w3-padding-16"><b>Acceso ilimitado a entrenamientos de Pilates de primer nivel, ideales para todas las edades y niveles de habilidad.</b></li>
         <li class="w3-padding-16"><b>Programa de entrenamiento semanal gratuito</b> </li>

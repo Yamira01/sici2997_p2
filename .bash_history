@@ -137,3 +137,42 @@ git commit -m "Cambios"
 git add
 git add.
 add
+git clone https://github.com/Yamira01/sici4997_final.git
+git add
+git init
+git add .
+git remote add origin https://github.com/Yamira01/sici4997_final.git
+git push -u origin master
+git init
+git commit -m "commit final"
+git remote add origin https://github.com/Yamira01/sici4997_final.git
+git push -u origin master
+git push origin master
+git push master
+git push origin master
+ public_html/pilates/parts/sobrenosotros.php (77%)
+rite git remote add origin
+git remote add origin https://github.com/Yamira01/sici4997_final.git
+git remote add origin git@github.com:Yamira01/sici4997_final.git
+git push -u origin master
+git init
+git remote add origin git@github.com:Yamira01/sici4997_final.git
+git update-ref -d HEAD
+git init
+ git update-ref -d HEAD
+it update-ref -d HEAD
+git push origin master
+git init
+git push origin master
+git init
+git push origin mast
+add
+git push origin mast
+git push origin master
+ git commit -m "commit final"
+git push origin master
+git pull
+git init
+git remote add origin git@github.com:Yamira01/sici4997_final.git
+git push -u origin master
+git pull

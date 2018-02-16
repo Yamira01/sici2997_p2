@@ -29,7 +29,7 @@ function w3_open() {
     }
 }
 
-// Esta funcion hace que la que cierre el sidebar, cuando le das click en close.
+// Esta funcion hace que cierre el sidebar, cuando le das click en close.
 function w3_close() {
     mySidebar.style.display = "none";
 }
